@@ -1,0 +1,8 @@
+/projects/MultitargetLib/bin/Debug/netstandard1.4/MultitargetLib.deps.json
+/projects/MultitargetLib/bin/Debug/netstandard1.4/MultitargetLib.dll
+/projects/MultitargetLib/bin/Debug/netstandard1.4/MultitargetLib.pdb
+/projects/MultitargetLib/obj/Debug/netstandard1.4/MultitargetLib.csproj.CoreCompileInputs.cache
+/projects/MultitargetLib/obj/Debug/netstandard1.4/MultitargetLib.AssemblyInfoInputs.cache
+/projects/MultitargetLib/obj/Debug/netstandard1.4/MultitargetLib.AssemblyInfo.cs
+/projects/MultitargetLib/obj/Debug/netstandard1.4/MultitargetLib.dll
+/projects/MultitargetLib/obj/Debug/netstandard1.4/MultitargetLib.pdb
